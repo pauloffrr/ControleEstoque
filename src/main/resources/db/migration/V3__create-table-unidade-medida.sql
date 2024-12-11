@@ -1,0 +1,4 @@
+CREATE TABLE Unidade_Medida (
+    id_medida INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL
+);
